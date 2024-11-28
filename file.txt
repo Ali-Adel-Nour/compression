@@ -1,3 +1,15 @@
+Loseless compression
 ( Deflate - Brotile) Lz- Lz77
 
 Gzip - Huffman Coding
+PNG
+
+FLAC - Free Lossless Audio Codec
+FFV1
+ProRes4444
+
+
+Lossy compression
+( JPEG - JPEG 2000)
+MP3-AAC for audios
+H.264 for videos
